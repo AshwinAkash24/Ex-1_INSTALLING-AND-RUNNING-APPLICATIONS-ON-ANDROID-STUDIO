@@ -1,7 +1,6 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
-even_term_ii_2025-26
-## NAME: Bakkiyalakshmi E
-## Register number: 212223220012
+## NAME: Ashwin Akash M
+## Register number: 212223230024
 
 # Android Studio Installation and Running Applications
 
